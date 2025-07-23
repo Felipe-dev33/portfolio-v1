@@ -1,0 +1,14 @@
+# Ignorar pastas do Windows e arquivos temporários
+AppData/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
